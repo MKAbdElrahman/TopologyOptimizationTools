@@ -1,0 +1,13 @@
+name = "TopologyOptimizationTools"
+uuid = "7b0517e7-5a6a-46a9-8edd-873b6c124a1b"
+authors = ["Mohamed Kamal AbdElrahman"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
